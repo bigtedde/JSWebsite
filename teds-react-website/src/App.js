@@ -1,4 +1,4 @@
-import logo from './logo.jpg';
+import logo from './logo.JPG';
 import './App.css';
 
 
@@ -12,6 +12,7 @@ function App() {
         <body className='App-body'>
           <p>List of links to my various projects</p>
           <ul className='App-list'>
+              <li><a href='https://github.com/bigtedde/Tic-Tac-Toe-with-AI'>Tic-Tac-Toe w/Unbeatable AI </a></li>
               <li><a href="https://github.com/bigtedde/leetCode">Leetcode Examples</a></li>
               <li><a href="https://github.com/bigtedde/TickerChecker">Ticker Checker (iOS App)</a></li>
               <li><a href="https://github.com/bigtedde/Gambling-Simulator">Gambling Simulator (iOS App)</a></li>
