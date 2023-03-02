@@ -1,3 +1,27 @@
+FUTURE TED -> SCROLL TO THE BOTTOM FOR TL,DR INSTRUCTIONS
+
+
+
+FUTURE TED -> SCROLL TO THE BOTTOM FOR TL,DR INSTRUCTIONS
+
+
+
+FUTURE TED -> SCROLL TO THE BOTTOM FOR TL,DR INSTRUCTIONS
+
+
+
+FUTURE TED -> SCROLL TO THE BOTTOM FOR TL,DR INSTRUCTIONS
+
+
+
+FUTURE TED -> SCROLL TO THE BOTTOM FOR TL,DR INSTRUCTIONS
+
+
+
+FUTURE TED -> SCROLL TO THE BOTTOM FOR TL,DR INSTRUCTIONS
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +92,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+1. npm start -> localhost version
+2. npm run build -> minified version, updates files in './build' directory
+3. npm run deploy -> pushes minified files to gh-pages repo on github and is able to be hosted.
