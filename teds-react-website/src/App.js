@@ -1,11 +1,14 @@
+import React from 'react';
 import logo from './logo.jpg';
 import './App.css';
+import AboutMe from './AboutMe.js';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to my website!</h1>
+        <h1>Theodore Lawson</h1>
+        <button onClick={() => {window.location.href = '/AboutMe.js'}}>About Me</button>
         <img src={logo} className="App-logo" alt="logo"/>
       </header>
       <p>List of links to my various projects</p>
